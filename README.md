@@ -1,2 +1,2 @@
 # lab1
-Introduction to distributed version control. 
+Using GitHub and Git, This lab provides an introduction to distributed version control. Installing Git, making repositories, modifying files, and carrying out important Git operations like cloning, staging, committing, branching, and merging are just a few of the fundamental tasks it covers. It also gives practice managing various branches inside a project and submitting updates to a remote repository (GitHub). I have obtained practical knowledge with the basic commands and procedures needed for version control and collaborative coding in software development by finishing this lab.
